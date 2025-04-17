@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "nombre": "The Last to Fast",
+        "precio": 59.99,
+        "descuento": 0.10,
+        "descripcion": "Un emocionante juego de carreras donde la velocidad lo es todo.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=The+Last+to+Fast"
+    },
+    {
+        "id": 2,
+        "nombre": "The Legend of Zelda: Breath of the Wild",
+        "precio": 59.99,
+        "descuento": 0.10,
+        "descripcion": "Explora un vasto mundo abierto lleno de aventuras y desafíos.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Zelda+BotW"
+    },
+    {
+        "id": 3,
+        "nombre": "Elden Ring",
+        "precio": 69.99,
+        "descuento": 0.15,
+        "descripcion": "Un RPG de acción en un mundo oscuro y fantástico.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Elden+Ring"
+    },
+    {
+        "id": 4,
+        "nombre": "Grand Theft Auto V",
+        "precio": 39.99,
+        "descuento": 0.20,
+        "descripcion": "Vive una historia épica en el mundo abierto de Los Santos.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=GTA+V"
+    },
+    {
+        "id": 5,
+        "nombre": "Red Dead Redemption 2",
+        "precio": 59.99,
+        "descuento": 0.10,
+        "descripcion": "Explora el Salvaje Oeste en este juego de acción y aventura.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=RDR2"
+    },
+    {
+        "id": 6,
+        "nombre": "The Witcher 3: Wild Hunt",
+        "precio": 49.99,
+        "descuento": 0.15,
+        "descripcion": "Un RPG épico con una historia rica y un mundo abierto.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Witcher+3"
+    },
+    {
+        "id": 7,
+        "nombre": "Cyberpunk 2077",
+        "precio": 59.99,
+        "descuento": 0.10,
+        "descripcion": "Sumérgete en un mundo futurista lleno de acción y tecnología.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Cyberpunk+2077"
+    },
+    {
+        "id": 8,
+        "nombre": "Animal Crossing: New Horizons",
+        "precio": 49.99,
+        "descuento": 0.0,
+        "descripcion": "Construye y personaliza tu isla en este juego relajante.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Animal+Crossing"
+    },
+    {
+        "id": 9,
+        "nombre": "Call of Duty: Modern Warfare II",
+        "precio": 69.99,
+        "descuento": 0.15,
+        "descripcion": "Experimenta la acción intensa en este shooter en primera persona.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=CoD+MWII"
+    },
+    {
+        "id": 10,
+        "nombre": "Hollow Knight",
+        "precio": 14.99,
+        "descuento": 0.0,
+        "descripcion": "Explora un mundo subterráneo lleno de secretos y desafíos.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Hollow+Knight"
+    },
+    {
+        "id": 11,
+        "nombre": "Dark Souls III",
+        "precio": 49.99,
+        "descuento": 0.20,
+        "descripcion": "Un RPG de acción desafiante en un mundo oscuro y peligroso.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Dark+Souls+III"
+    },
+    {
+        "id": 12,
+        "nombre": "Super Mario Odyssey",
+        "precio": 59.99,
+        "descuento": 0.10,
+        "descripcion": "Acompaña a Mario en una aventura por mundos increíbles.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Super+Mario+Odyssey"
+    },
+    {
+        "id": 13,
+        "nombre": "The Last of Us Part II",
+        "precio": 59.99,
+        "descuento": 0.10,
+        "descripcion": "Una historia emocional y llena de acción en un mundo post-apocalíptico.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=The+Last+of+Us+Part+II"
+    },
+    {
+        "id": 14,
+        "nombre": "Assassin's Creed Valhalla",
+        "precio": 59.99,
+        "descuento": 0.15,
+        "descripcion": "Vive la era de los vikingos en este juego de acción y aventura.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=AC+Valhalla"
+    },
+    {
+        "id": 15,
+        "nombre": "Far Cry 6",
+        "precio": 59.99,
+        "descuento": 0.10,
+        "descripcion": "Lucha por la libertad en un mundo abierto lleno de acción.",
+        "disponibilidad": "Disponible",
+        "imagen": "https://via.placeholder.com/150?text=Far+Cry+6"
+    }
+]
