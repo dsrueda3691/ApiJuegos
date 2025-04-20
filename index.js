@@ -3,6 +3,9 @@ const app = express();
 const port = 3000;
 
 // Middleware para manejar JSON
+const cors = require("cors");
+app.use(cors());
+
 app.use(express.json());
 
 // Cargar juegos desde el archivo JSON
