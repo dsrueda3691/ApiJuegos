@@ -1,152 +1,152 @@
 [
-    {
-        "id": 1,
-        "nombre": "The Last of Us Part I",
-        "precio": 59.99,
-        "descuento": 0.10,
-        "descripcion": "Una de las historias más aclamadas de todos los tiempos. Con una narrativa profundamente emocional y escenarios post-apocalípticos .",
-        "sinopsis": "Una de las historias más aclamadas de todos los tiempos. En un mundo devastado por una pandemia, Joel y Ellie deberán enfrentarse a los peligros de un territorio plagado de infectados y bandidos. La historia de supervivencia y sacrificio toca temas profundos de la humanidad y la moralidad, mientras los personajes luchan por su vida y sus principios.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://c4.wallpaperflare.com/wallpaper/1013/948/982/the-last-of-us-video-game-the-last-of-us-wallpaper-preview.jpg"
-    },
-    {
-        "id": 2,
-        "nombre": "The Legend of Zelda: Breath of the Wild",
-        "precio": 59.99,
-        "descuento": 0.0,
-        "descripcion": "Sumérgete en Hyrule como nunca antes. Este mundo abierto rebosa de vida, secretos y desafíos que se adaptan a tu estilo de juego..",
-        "sinopsis": "Explora un Hyrule vasto y libre, donde puedes elegir tu propio destino. Resuelve puzzles, combate criaturas míticas y descubre la historia perdida de un reino antiguo mientras avanzas hacia el enfrentamiento final con el malvado Ganon. La libertad y creatividad en este juego te permitirán jugar como nunca antes.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/250px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
-    },
-    {
-        "id": 3,
-        "nombre": "Elden Ring",
-        "precio": 69.99,
-        "descuento": 0.15,
-        "descripcion": "De los creadores de Dark Souls y con la colaboración de George R.R. Elden Ring ofrece un mundo oscuro y vasto donde cada rincón esconde secretos y horrores. .",
-        "sinopsis": "Un mundo abierto lleno de magia, misterios y peligros, donde los jugadores podrán crear su propio héroe, explorar diferentes regiones y enfrentarse a enemigos gigantescos. Con una historia influenciada por las obras de George R.R. Martin, Elden Ring combina lo mejor de los RPGs y la dificultad desafiante característica de FromSoftware.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://assets.xboxservices.com/assets/7b/54/7b54f5e4-0857-4ce3-8a18-2b8c431e8a9e.jpg?n=Elden-Ring_GLP-Page-Hero-0_1083x1222_01.jpg"
-    },
-    {
-        "id": 4,
-        "nombre": "Grand Theft Auto V",
-        "precio": 39.99,
-        "descuento": 0.20,
-        "descripcion": "Vive la historia desde tres perspectivas únicas mientras robas bancos, huyes de la policía y disfrutas de un mundo abierto inmenso lleno de actividades. ",
-        "sinopsis": "En GTA V, puedes jugar con tres personajes diferentes, cada uno con su propio pasado y motivaciones. Desde las calles de Los Santos hasta las montañas y el desierto, el mundo es inmenso y detallado. Además, el modo online de GTA V ofrece posibilidades infinitas para robar, pelear y colaborar con otros jugadores.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://products.eneba.games/resized-products/s29Db6ZBVLneuD0t66qnYRamvGDP3p8chLz-3IomxcU_350x200_1x-0.jpeg"
-    },
-    {
-        "id": 5,
-        "nombre": "Red Dead Redemption 2",
-        "precio": 59.99,
-        "descuento": 0.10,
-        "descripcion": "Entra al corazón del Salvaje Oeste como Arthur Morgan, miembro de una banda de forajidos al borde del colapso.",
-        "sinopsis": "Red Dead Redemption 2 lleva a los jugadores al ocaso de la era del Viejo Oeste. Como Arthur Morgan, un forajido que enfrenta su propia moralidad, el jugador se ve obligado a tomar decisiones difíciles mientras la banda de Van der Linde lucha por sobrevivir. La jugabilidad ofrece una mezcla de combate, exploración y narrativa.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9p-nvZ585Y08glosWdKJq_pne_neSIAizg&s"
-    },
-    {
-        "id": 6,
-        "nombre": "The Witcher 3: Wild Hunt",
-        "precio": 49.99,
-        "descuento": 0.15,
-        "descripcion": "Conviértete en Geralt de Rivia, un cazador de monstruos en busca de su hija adoptiva en un mundo devastado por la guerra. Vive una historia rica con múltiples caminos, decisiones significativas y combates intensos contra criaturas míticas. ",
-        "sinopsis": "The Witcher 3 te lleva a un mundo medieval fantástico donde las criaturas míticas, la magia y la guerra están a la orden del día. Como Geralt, un cazador de monstruos, el jugador tendrá que tomar decisiones difíciles que afectarán el destino del mundo. La historia es profunda, compleja y cargada de giros inesperados.",
-        "disponibilidad": "no Disponible",
-        "imagen": "https://images.gog-statics.com/ca20a040b7e7dbf11f954b4fa85e1ecdcf8f95eeba8ebf71f89455794eec80f2.jpg"
-    },
-    {
-        "id": 7,
-        "nombre": "Cyberpunk 2077",
-        "precio": 59.99,
-        "descuento": 0.10,
-        "descripcion": "Vive como V, un mercenario en busca de la inmortalidad en la vibrante y peligrosa Night City. ",
-        "sinopsis": "Cyberpunk 2077 te sumerge en un mundo futurista donde la tecnología y la corrupción dominan la vida. Como V, un mercenario en busca de un implante que le otorgue inmortalidad, el jugador deberá navegar por una ciudad llena de secretos, alianzas y traiciones. La historia se ramifica según las decisiones tomadas por el jugador.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://i.blogs.es/b109e9/cyberpunk2077-johnny-v-rgb_en/1366_2000.jpg"
-    },
-    {
-        "id": 8,
-        "nombre": "Animal Crossing: New Horizons",
-        "precio": 49.99,
-        "descuento": 0.0,
-        "descripcion": "Escapa al estrés diario y crea tu paraíso personal en una isla desierta.  Un juego perfecto para desconectar y dejar volar tu creatividad.",
-        "sinopsis": "Animal Crossing: New Horizons te permite crear tu propio paraíso en una isla desierta, donde podrás cultivar, pescar, decorar y construir relaciones con tus vecinos. Con un ciclo de tiempo en tiempo real y eventos especiales, este juego es ideal para relajarte y disfrutar de un ritmo de vida tranquilo.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://assets.nintendo.eu/image/upload/f_auto,c_limit,w_992,q_auto:low/MNS/NOE/70010000027620/1.1_2000x2000_ProductTile_Switch_AnimalCrossingNewHorizons_KeyVisual_enGB_v1_100q"
-    },
-    {
-        "id": 9,
-        "nombre": "Call of Duty: Black Ops 6",
-        "precio": 89.99,
-        "descuento": 0.15,
-        "descripcion": "La franquicia regresa con una entrega explosiva que combina una campaña intensa, modos multijugador competitivos y una experiencia de zombis renovada. .",
-        "sinopsis": "En Call of Duty: Black Ops 6, la campaña te lleva a través de diferentes escenarios de guerra, mientras que el modo multijugador te enfrenta a otros jugadores en intensas batallas. Además, el modo Zombis te permite luchar contra hordas de muertos vivientes en mapas únicos, con una narrativa que se expande con cada entrega.",
-        "disponibilidad": "no Disponible",
-        "imagen": "https://i.blogs.es/027089/black-ops-6/1366_2000.jpeg"
-    },
-    {
-        "id": 10,
-        "nombre": "Hollow Knight",
-        "precio": 14.99,
-        "descuento": 0.0,
-        "descripcion": "Explora Hallownest, un reino subterráneo lleno de ruinas y secretos. Este metroidvania 2D ofrece combates precisos, atmósfera cautivadora y una historia oculta entre sombras.",
-        "sinopsis": "En Hollow Knight, el jugador controla a un pequeño caballero en un vasto mundo subterráneo lleno de criaturas hostiles. El juego se basa en la exploración, el combate y el descubrimiento, mientras el jugador intenta desvelar los misterios de Hallownest. Con un diseño visual único y un alto nivel de dificultad, es un juego de culto para muchos.",
-        "disponibilidad": "no Disponible",
-        "imagen": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13632_00/4/i_e7895b1722ebc8586d69ccb7166c0fe5c70462211e04abdb85a2b80c98032030/i/icon0_03.png"
-    },
-    {
-        "id": 11,
-        "nombre": "Dark Souls III",
-        "precio": 49.99,
-        "descuento": 0.20,
-        "descripcion": "Sumérgete en un mundo sombrío donde cada enemigo puede ser tu final.",
-        "sinopsis": "Dark Souls III es conocido por su dificultad brutal y su atmósfera desolada. El jugador deberá enfrentarse a poderosos enemigos y jefes, mientras explora un mundo oscuro y peligroso. Con una narrativa profunda, la saga Dark Souls desafía a los jugadores a enfrentar sus miedos y superar obstáculos casi insuperables.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://static.gabestore.ru/product/PQ3jsY_ZvOjJ76Ep5U06TGkP3Ph-Nt1C.jpg"
-    },
-    {
-        "id": 12,
-        "nombre": "Super Mario Odyssey",
-        "precio": 59.99,
-        "descuento": 0.10,
-        "descripcion": "Acompaña a Mario en una colorida y creativa aventura por distintos reinos, cada uno con mecánicas únicas y secretos por descubrir.",
-        "sinopsis": "Super Mario Odyssey lleva a los jugadores por diferentes reinos mientras Mario busca rescatar a Peach. Con nuevas mecánicas como la capacidad de poseer objetos y enemigos, el juego ofrece una experiencia fresca y llena de sorpresas. Con un mundo abierto y exploratorio, es un juego lleno de creatividad y desafíos.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5"
-    },
-    {
-        "id": 13,
-        "nombre": "The Last of Us Part II",
-        "precio": 59.99,
-        "descuento": 0.10,
-        "descripcion": "Una continuación intensa y emocional que lleva los límites de la narrativa en los videojuegos. Acompaña a Ellie en un camino marcado por el odio, la pérdida y la redención.",
-        "sinopsis": "The Last of Us Part II continúa la historia de Ellie, ahora en un mundo donde la venganza y la redención son temas centrales. La narrativa profunda y las secuencias emocionales te harán cuestionar la moralidad de tus decisiones en un mundo post-apocalíptico. Este juego empuja los límites del storytelling en los videojuegos.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
-    },
-    {
-        "id": 14,
-        "nombre": "Assassin's Creed Valhalla",
-        "precio": 59.99,
-        "descuento": 0.15,
-        "descripcion": "Embárcate en una épica aventura como Eivor, un guerrero vikingo que busca un nuevo hogar en Inglaterra. Saquea fortalezas, lidera tu clan y decide el destino de tu pueblo.",
-        "sinopsis": "Assassin's Creed Valhalla lleva a los jugadores a la época de los vikingos, donde puedes explorar un vasto mundo abierto, invadir pueblos y forjar tu propio destino. El juego mezcla elementos de combate brutal y sigiloso, mientras el jugador participa en una historia épica llena de decisiones políticas y personales.",
-        "disponibilidad": "Disponible",
-        "imagen": "https://sm.ign.com/t/ign_es/gallery/a/assassins-/assassins-creed-valhalla-box-art-logos_ukn7.1200.jpg"
-    },
-    {
-        "id": 15,
-        "nombre": "Far Cry 6",
-        "precio": 59.99,
-        "descuento": 0.10,
-        "descripcion": "Lucha contra la tiranía en la isla de Yara, un paraíso congelado en el tiempo. Únete a la revolución, fabrica armas improvisadas y destruye al régimen del dictador Antón Castillo.",
-        "sinopsis": "Far Cry 6 te permite jugar como un revolucionario que lucha por liberar a su país de un dictador opresivo. La isla de Yara es un paraíso tropical plagado de caos y corrupción, y el jugador tendrá que usar todas sus habilidades y armas para derrotar al régimen y liberar al pueblo.",
-        "disponibilidad": "no Disponible",
-        "imagen": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771"
-    }
+  {
+    "id": 1,
+    "nombre": "The Last of Us Part I",
+    "precio": 59.99,
+    "descuento": 0.2,
+    "descripcion": "Una de las historias más aclamadas de todos los tiempos. Con una narrativa profundamente emocional y escenarios post-apocalípticos .",
+    "sinopsis": "Una de las historias más aclamadas de todos los tiempos. En un mundo devastado por una pandemia, Joel y Ellie deberán enfrentarse a los peligros de un territorio plagado de infectados y bandidos. La historia de supervivencia y sacrificio toca temas profundos de la humanidad y la moralidad, mientras los personajes luchan por su vida y sus principios.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://c4.wallpaperflare.com/wallpaper/1013/948/982/the-last-of-us-video-game-the-last-of-us-wallpaper-preview.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "The Legend of Zelda: Breath of the Wild",
+    "precio": 59.99,
+    "descuento": 0,
+    "descripcion": "Sumérgete en Hyrule como nunca antes. Este mundo abierto rebosa de vida, secretos y desafíos que se adaptan a tu estilo de juego..",
+    "sinopsis": "Explora un Hyrule vasto y libre, donde puedes elegir tu propio destino. Resuelve puzzles, combate criaturas míticas y descubre la historia perdida de un reino antiguo mientras avanzas hacia el enfrentamiento final con el malvado Ganon. La libertad y creatividad en este juego te permitirán jugar como nunca antes.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/250px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Elden Ring",
+    "precio": 69.99,
+    "descuento": 0.15,
+    "descripcion": "De los creadores de Dark Souls y con la colaboración de George R.R. Elden Ring ofrece un mundo oscuro y vasto donde cada rincón esconde secretos y horrores. .",
+    "sinopsis": "Un mundo abierto lleno de magia, misterios y peligros, donde los jugadores podrán crear su propio héroe, explorar diferentes regiones y enfrentarse a enemigos gigantescos. Con una historia influenciada por las obras de George R.R. Martin, Elden Ring combina lo mejor de los RPGs y la dificultad desafiante característica de FromSoftware.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://assets.xboxservices.com/assets/7b/54/7b54f5e4-0857-4ce3-8a18-2b8c431e8a9e.jpg?n=Elden-Ring_GLP-Page-Hero-0_1083x1222_01.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Grand Theft Auto V",
+    "precio": 39.99,
+    "descuento": 0.2,
+    "descripcion": "Vive la historia desde tres perspectivas únicas mientras robas bancos, huyes de la policía y disfrutas de un mundo abierto inmenso lleno de actividades. ",
+    "sinopsis": "En GTA V, puedes jugar con tres personajes diferentes, cada uno con su propio pasado y motivaciones. Desde las calles de Los Santos hasta las montañas y el desierto, el mundo es inmenso y detallado. Además, el modo online de GTA V ofrece posibilidades infinitas para robar, pelear y colaborar con otros jugadores.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://products.eneba.games/resized-products/s29Db6ZBVLneuD0t66qnYRamvGDP3p8chLz-3IomxcU_350x200_1x-0.jpeg"
+  },
+  {
+    "id": 5,
+    "nombre": "Red Dead Redemption 2",
+    "precio": 59.99,
+    "descuento": 0.1,
+    "descripcion": "Entra al corazón del Salvaje Oeste como Arthur Morgan, miembro de una banda de forajidos al borde del colapso.",
+    "sinopsis": "Red Dead Redemption 2 lleva a los jugadores al ocaso de la era del Viejo Oeste. Como Arthur Morgan, un forajido que enfrenta su propia moralidad, el jugador se ve obligado a tomar decisiones difíciles mientras la banda de Van der Linde lucha por sobrevivir. La jugabilidad ofrece una mezcla de combate, exploración y narrativa.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9p-nvZ585Y08glosWdKJq_pne_neSIAizg&s"
+  },
+  {
+    "id": 6,
+    "nombre": "The Witcher 3: Wild Hunt",
+    "precio": 49.99,
+    "descuento": 0.15,
+    "descripcion": "Conviértete en Geralt de Rivia, un cazador de monstruos en busca de su hija adoptiva en un mundo devastado por la guerra. Vive una historia rica con múltiples caminos, decisiones significativas y combates intensos contra criaturas míticas. ",
+    "sinopsis": "The Witcher 3 te lleva a un mundo medieval fantástico donde las criaturas míticas, la magia y la guerra están a la orden del día. Como Geralt, un cazador de monstruos, el jugador tendrá que tomar decisiones difíciles que afectarán el destino del mundo. La historia es profunda, compleja y cargada de giros inesperados.",
+    "disponibilidad": "no Disponible",
+    "imagen": "https://images.gog-statics.com/ca20a040b7e7dbf11f954b4fa85e1ecdcf8f95eeba8ebf71f89455794eec80f2.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Cyberpunk 2077",
+    "precio": 59.99,
+    "descuento": 0.1,
+    "descripcion": "Vive como V, un mercenario en busca de la inmortalidad en la vibrante y peligrosa Night City. ",
+    "sinopsis": "Cyberpunk 2077 te sumerge en un mundo futurista donde la tecnología y la corrupción dominan la vida. Como V, un mercenario en busca de un implante que le otorgue inmortalidad, el jugador deberá navegar por una ciudad llena de secretos, alianzas y traiciones. La historia se ramifica según las decisiones tomadas por el jugador.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://i.blogs.es/b109e9/cyberpunk2077-johnny-v-rgb_en/1366_2000.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Animal Crossing: New Horizons",
+    "precio": 49.99,
+    "descuento": 0,
+    "descripcion": "Escapa al estrés diario y crea tu paraíso personal en una isla desierta.  Un juego perfecto para desconectar y dejar volar tu creatividad.",
+    "sinopsis": "Animal Crossing: New Horizons te permite crear tu propio paraíso en una isla desierta, donde podrás cultivar, pescar, decorar y construir relaciones con tus vecinos. Con un ciclo de tiempo en tiempo real y eventos especiales, este juego es ideal para relajarte y disfrutar de un ritmo de vida tranquilo.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://assets.nintendo.eu/image/upload/f_auto,c_limit,w_992,q_auto:low/MNS/NOE/70010000027620/1.1_2000x2000_ProductTile_Switch_AnimalCrossingNewHorizons_KeyVisual_enGB_v1_100q"
+  },
+  {
+    "id": 9,
+    "nombre": "Call of Duty: Black Ops 6",
+    "precio": 89.99,
+    "descuento": 0.15,
+    "descripcion": "La franquicia regresa con una entrega explosiva que combina una campaña intensa, modos multijugador competitivos y una experiencia de zombis renovada. .",
+    "sinopsis": "En Call of Duty: Black Ops 6, la campaña te lleva a través de diferentes escenarios de guerra, mientras que el modo multijugador te enfrenta a otros jugadores en intensas batallas. Además, el modo Zombis te permite luchar contra hordas de muertos vivientes en mapas únicos, con una narrativa que se expande con cada entrega.",
+    "disponibilidad": "no Disponible",
+    "imagen": "https://i.blogs.es/027089/black-ops-6/1366_2000.jpeg"
+  },
+  {
+    "id": 10,
+    "nombre": "Hollow Knight",
+    "precio": 14.99,
+    "descuento": 0,
+    "descripcion": "Explora Hallownest, un reino subterráneo lleno de ruinas y secretos. Este metroidvania 2D ofrece combates precisos, atmósfera cautivadora y una historia oculta entre sombras.",
+    "sinopsis": "En Hollow Knight, el jugador controla a un pequeño caballero en un vasto mundo subterráneo lleno de criaturas hostiles. El juego se basa en la exploración, el combate y el descubrimiento, mientras el jugador intenta desvelar los misterios de Hallownest. Con un diseño visual único y un alto nivel de dificultad, es un juego de culto para muchos.",
+    "disponibilidad": "no Disponible",
+    "imagen": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13632_00/4/i_e7895b1722ebc8586d69ccb7166c0fe5c70462211e04abdb85a2b80c98032030/i/icon0_03.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Dark Souls III",
+    "precio": 49.99,
+    "descuento": 0.2,
+    "descripcion": "Sumérgete en un mundo sombrío donde cada enemigo puede ser tu final.",
+    "sinopsis": "Dark Souls III es conocido por su dificultad brutal y su atmósfera desolada. El jugador deberá enfrentarse a poderosos enemigos y jefes, mientras explora un mundo oscuro y peligroso. Con una narrativa profunda, la saga Dark Souls desafía a los jugadores a enfrentar sus miedos y superar obstáculos casi insuperables.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://static.gabestore.ru/product/PQ3jsY_ZvOjJ76Ep5U06TGkP3Ph-Nt1C.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Super Mario Odyssey",
+    "precio": 59.99,
+    "descuento": 0.1,
+    "descripcion": "Acompaña a Mario en una colorida y creativa aventura por distintos reinos, cada uno con mecánicas únicas y secretos por descubrir.",
+    "sinopsis": "Super Mario Odyssey lleva a los jugadores por diferentes reinos mientras Mario busca rescatar a Peach. Con nuevas mecánicas como la capacidad de poseer objetos y enemigos, el juego ofrece una experiencia fresca y llena de sorpresas. Con un mundo abierto y exploratorio, es un juego lleno de creatividad y desafíos.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5"
+  },
+  {
+    "id": 13,
+    "nombre": "The Last of Us Part II",
+    "precio": 59.99,
+    "descuento": 0.1,
+    "descripcion": "Una continuación intensa y emocional que lleva los límites de la narrativa en los videojuegos. Acompaña a Ellie en un camino marcado por el odio, la pérdida y la redención.",
+    "sinopsis": "The Last of Us Part II continúa la historia de Ellie, ahora en un mundo donde la venganza y la redención son temas centrales. La narrativa profunda y las secuencias emocionales te harán cuestionar la moralidad de tus decisiones en un mundo post-apocalíptico. Este juego empuja los límites del storytelling en los videojuegos.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Assassin's Creed Valhalla",
+    "precio": 59.99,
+    "descuento": 0.15,
+    "descripcion": "Embárcate en una épica aventura como Eivor, un guerrero vikingo que busca un nuevo hogar en Inglaterra. Saquea fortalezas, lidera tu clan y decide el destino de tu pueblo.",
+    "sinopsis": "Assassin's Creed Valhalla lleva a los jugadores a la época de los vikingos, donde puedes explorar un vasto mundo abierto, invadir pueblos y forjar tu propio destino. El juego mezcla elementos de combate brutal y sigiloso, mientras el jugador participa en una historia épica llena de decisiones políticas y personales.",
+    "disponibilidad": "Disponible",
+    "imagen": "https://sm.ign.com/t/ign_es/gallery/a/assassins-/assassins-creed-valhalla-box-art-logos_ukn7.1200.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Far Cry 6",
+    "precio": 59.99,
+    "descuento": 0.1,
+    "descripcion": "Lucha contra la tiranía en la isla de Yara, un paraíso congelado en el tiempo. Únete a la revolución, fabrica armas improvisadas y destruye al régimen del dictador Antón Castillo.",
+    "sinopsis": "Far Cry 6 te permite jugar como un revolucionario que lucha por liberar a su país de un dictador opresivo. La isla de Yara es un paraíso tropical plagado de caos y corrupción, y el jugador tendrá que usar todas sus habilidades y armas para derrotar al régimen y liberar al pueblo.",
+    "disponibilidad": "no Disponible",
+    "imagen": "https://store-images.s-microsoft.com/image/apps.41566.14115267245615103.8e12f551-059b-455a-97ec-4b8173f3621e.072dfa13-d1bd-4242-8154-901de8c1b771"
+  }
 ]
